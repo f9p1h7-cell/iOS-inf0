@@ -1,6 +1,6 @@
 # iOS-inf0
 
-#Chip Sets
+# Chip Sets
 
 iPhone 1st gen Samsung 32-bit RISC S5L8900
 
@@ -72,7 +72,7 @@ iPhone 17 Pro / 17 Pro Max Apple A19 Pro
 
 iPhone 18 Pro / 18 Pro Max Apple A20 Pro
 
-#Jailbreaks
+# Jailbreaks
 
 iPhone 1st gen JailbreakMe (iOS 1.1.1)
 
@@ -144,7 +144,7 @@ iPhone 17 Pro / 17 Pro Max None
 
 iPhone 18 Pro / 18 Pro Max None
 
-#Release Dates
+# Release Dates
 
 iPhone 1st gen June 29, 2007
 
