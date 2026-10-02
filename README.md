@@ -1,5 +1,3 @@
-# iOS-inf0
-
 # Chip Sets
 
 iPhone 1st gen Samsung 32-bit RISC S5L8900
