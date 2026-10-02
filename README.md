@@ -128,7 +128,7 @@ iPhone 15 / 15 Plus Dopamine
 
 iPhone 15 Pro / 15 Pro Max Dopamine
 
-check (ios.cfw.guide)[https://ios.cfw.guide] for more info
+check [ios.cfw.guide](https://ios.cfw.guide) for more info
 
 # Release Dates
 
