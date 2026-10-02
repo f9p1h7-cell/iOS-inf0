@@ -1,3 +1,5 @@
+Hello there's a bunch of info in here such as [Jailbreaks](https://github.com/f9p1h7-cell/iOS-inf0) 
+
 # Chip Sets
 
 iPhone 2G Samsung 32bit RISC S5L8900
