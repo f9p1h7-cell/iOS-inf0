@@ -1,8 +1,8 @@
 # Chip Sets
 
-iPhone 2G Samsung 32-bit RISC S5L8900
+iPhone 2G Samsung 32bit RISC S5L8900
 
-iPhone 3G Samsung 32-bit RISC S5L8900
+iPhone 3G Samsung 32bit RISC S5L8900
 
 iPhone 3GS Samsung S5L8920
 
@@ -72,75 +72,63 @@ iPhone 18 Pro / 18 Pro Max Apple A20 Pro
 
 # Jailbreaks
 
-iPhone 2G JailbreakMe (iOS 1.1.1)
+iPhone 2G JailbreakMe 
 
-iPhone 3G redsn0w (iOS 3.0 – 4.2.1)
+iPhone 3G redsn0w    
 
-iPhone 3GS redsn0w (iOS 3.0 – 6.1.6)
+iPhone 3GS redsn0w    
 
-iPhone 4 JailbreakMe (iOS 4.2.1 – 4.3.3)
+iPhone 4 JailbreakMe  
 
-iPhone 4S Absinthe (iOS 5.0 – 5.1.1)
+iPhone 4S Absinthe  
 
-iPhone 5 evasi0n (iOS 6.0 – 6.1.2)
+iPhone 5 evasi0n  
 
-iPhone 5c evasi0n (iOS 7.0 – 7.0.6)
+iPhone 5c evasi0n  
 
-iPhone 5s evasi0n7 (iOS 7.0 – 7.0.6)
+iPhone 5s evasi0n7  
 
-iPhone 6 / 6 Plus Pangu8 (iOS 8.0 – 8.1)
+iPhone 6 / 6 Plus Pangu8  
 
-iPhone 6s / 6s Plus checkra1n (iOS 12.0 – 14.8.1)
+iPhone 6s / 6s Plus checkra1n  
 
-iPhone SE 1st gen checkra1n (iOS 12.0 – 14.8.1)
+iPhone SE 1st gen checkra1n  
 
-iPhone 7 / 7 Plus checkra1n (iOS 12.0 – 14.8.1)
+iPhone 7 / 7 Plus checkra1n  
 
-iPhone 8 / 8 Plus checkra1n (iOS 12.0 – 14.8.1)
+iPhone 8 / 8 Plus checkra1n 
 
-iPhone X checkra1n (iOS 12.0 – 14.8.1)
+iPhone X checkra1n  
 
-iPhone XR unc0ver (iOS 12.0 – 14.8)
+iPhone XR unc0ver 
 
-iPhone XS / XS Max unc0ver (iOS 12.0 – 14.8)
+iPhone XS / XS Max unc0ver
 
-iPhone 11 Dopamine (iOS 15.0 – 16.6.1)
+iPhone 11 Dopamine  
 
-iPhone 11 Pro / 11 Pro Max Dopamine (iOS 15.0 – 16.6.1)
+iPhone 11 Pro / 11 Pro Max Dopamine  
 
-iPhone SE 2nd gen Dopamine (iOS 15.0 – 16.6.1)
+iPhone SE 2nd gen Dopamine  
 
-iPhone 12 / 12 mini Dopamine (iOS 15.0 – 16.6.1)
+iPhone 12 / 12 mini Dopamine  
 
-iPhone 12 Pro / 12 Pro Max Dopamine (iOS 15.0 – 16.6.1)
+iPhone 12 Pro / 12 Pro Max Dopamine  
 
-iPhone 13 / 13 mini Dopamine (iOS 15.0 – 16.6.1)
+iPhone 13 / 13 mini Dopamine
 
-iPhone 13 Pro / 13 Pro Max Dopamine (iOS 15.0 – 16.6.1)
+iPhone 13 Pro / 13 Pro Max Dopamine 
 
-iPhone SE 3rd gen Dopamine (iOS 15.0 – 16.6.1)
+iPhone SE 3rd gen Dopamine  
 
-iPhone 14 / 14 Plus Dopamine (iOS 15.0 – 16.6.1)
+iPhone 14 / 14 Plus Dopamine  
 
-iPhone 14 Pro / 14 Pro Max Dopamine (iOS 15.0 – 16.6.1)
+iPhone 14 Pro / 14 Pro Max Dopamine  
 
-iPhone 15 / 15 Plus Dopamine (iOS 16.0 – 16.6.1)
+iPhone 15 / 15 Plus Dopamine  
 
-iPhone 15 Pro / 15 Pro Max Dopamine (iOS 17.0)
+iPhone 15 Pro / 15 Pro Max Dopamine
 
-iPhone 16 / 16 Plus None
-
-iPhone 16 Pro / 16 Pro Max None
-
-iPhone 16e None
-
-iPhone 17 None
-
-iPhone 17 Air None
-
-iPhone 17 Pro / 17 Pro Max None
-
-iPhone 18 Pro / 18 Pro Max None
+check (ios.cfw.guide)[https://ios.cfw.guide] for more info
 
 # Release Dates
 
