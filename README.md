@@ -202,3 +202,20 @@ iPhone 17 Pro / 17 Pro Max September 19, 2025
 
 iPhone 18 Pro / 18 Pro Max September 18, 2026
 
+# iBoot exploits (no blobs)
+
+iPhone 2G
+
+iPhone 3G
+
+iPhone 3GS
+
+iPhone 4
+
+# iBoot exploits (blobs)
+
+iPhone 4S
+
+iPhone 5
+
+iPhone 5c
