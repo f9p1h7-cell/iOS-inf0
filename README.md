@@ -1,6 +1,6 @@
 # Chip Sets
 
-iPhone 1st gen Samsung 32-bit RISC S5L8900
+iPhone 2G Samsung 32-bit RISC S5L8900
 
 iPhone 3G Samsung 32-bit RISC S5L8900
 
@@ -72,7 +72,7 @@ iPhone 18 Pro / 18 Pro Max Apple A20 Pro
 
 # Jailbreaks
 
-iPhone 1st gen JailbreakMe (iOS 1.1.1)
+iPhone 2G JailbreakMe (iOS 1.1.1)
 
 iPhone 3G redsn0w (iOS 3.0 – 4.2.1)
 
@@ -144,7 +144,7 @@ iPhone 18 Pro / 18 Pro Max None
 
 # Release Dates
 
-iPhone 1st gen June 29, 2007
+iPhone 2G gen June 29, 2007
 
 iPhone 3G July 11, 2008
 
