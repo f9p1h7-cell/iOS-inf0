@@ -235,3 +235,25 @@ iPhone 4S
 **iOS 6.1.3**
 
 iPhone 4S
+
+# Bootrom/Checkm8 exploit
+
+iPhone 4S
+
+iPhone 5
+
+iPhone 5c
+
+iPhone 5s
+
+iPhone 6 / 6 Plus
+
+iPhone 6s / 6s Plus
+
+iPhone SE 1st gen
+
+iPhone 7 / 7 Plus
+
+iPhone 8 / 8 Plus
+
+iPhone X
