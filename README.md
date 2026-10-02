@@ -214,4 +214,3 @@ iPhone 17 Pro / 17 Pro Max September 19, 2025
 
 iPhone 18 Pro / 18 Pro Max September 18, 2026
 
-
