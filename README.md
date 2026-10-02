@@ -222,16 +222,16 @@ iPhone 5c
 
 # OTA Downgrades
 
-iOS 10.3.3
+*iOS 10.3.3*
 
 iPhone 5S
 
-iOS 8.4.1
+*iOS 8.4.1*
 
-iPhone 5
+*iPhone 5*
 
 iPhone 4S
 
-iOS 6.1.3
+*iOS 6.1.3*
 
 iPhone 4S
