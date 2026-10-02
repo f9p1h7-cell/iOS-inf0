@@ -1,4 +1,4 @@
-Hello there's a bunch of info in here such as [Jailbreaks](https://github.com/f9p1h7-cell/iOS-inf0) 
+Hello there's a bunch of info in here such as [Jailbreaks](https://github.com/f9p1h7-cell/iOS-inf0#jailbreaks)
 
 # Chip Sets
 
