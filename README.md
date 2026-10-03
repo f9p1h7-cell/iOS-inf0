@@ -136,7 +136,7 @@ check [ios.cfw.guide](https://ios.cfw.guide) for more info
 
 # Release Dates
 
-iPhone 2G gen June 29, 2007
+iPhone 2G June 29, 2007
 
 iPhone 3G July 11, 2008
 
